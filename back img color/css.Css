@@ -1,0 +1,8 @@
+ /* fixed labghit teb9a teswira wakha kadir scroll*/
+ body{height: 300px;
+    width: 300px;
+    background-color: brown;
+    background-image: url( book.png) ;
+    background-repeat: repeat-x;
+    background-attachment:fixed;
+}
